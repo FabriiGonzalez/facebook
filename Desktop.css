@@ -1,0 +1,35 @@
+@media(min-width: 900px){
+    
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+main{
+    display: flex;
+    flex-direction:row;
+    margin-top: 180px;
+    
+}
+.title{
+text-align: start;
+align-items: start;
+justify-content: center;
+}
+img{
+    justify-content: start;
+    display: flex;
+}
+.cpd{ 
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+.cp{
+    width: 100%;
+}
+ }
